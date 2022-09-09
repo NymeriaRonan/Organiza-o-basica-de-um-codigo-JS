@@ -6,7 +6,7 @@ As sentenças de cogido podem terminar com ponto e virgula ou não. as sentença
 
 Organizada em blocos que são agrupamentos de sentenças de codigo 
 
- blocos de codigo > ![Screenshot_20220909_082234](https://user-images.githubusercontent.com/108475474/189339235-5ff4b1d3-963b-4951-b204-34ae62e028ef.png)
+ blocos de codigo:  ![Screenshot_20220909_082234](https://user-images.githubusercontent.com/108475474/189339235-5ff4b1d3-963b-4951-b204-34ae62e028ef.png)
 
 os blocos são delimitados por chaves > {} 
 
