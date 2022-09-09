@@ -14,7 +14,7 @@ Abre chaves {
 } < fecha chaves 
 
 Tipos de blocos:
-Blocos relacionados a funções (funções. reutilizam  funcionalidades )
+Blocos relacionados a funções (funções, reutilizam  funcionalidades )
 
 bloco de função > 
 
